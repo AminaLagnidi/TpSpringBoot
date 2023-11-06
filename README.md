@@ -19,7 +19,7 @@ Postman
 - Swagger et Postman pour tester lesinteractions API .
 - CRUD (Creat,Read,Update,Delete) pour students, roles,et filieres. 
 ## Videos  
-https://github.com/AminaLagnidi/TpSpringBoot/assets/146132357/a8f668cd-4dc5-4464-b974-430a9297b44a
+
 
 
 
